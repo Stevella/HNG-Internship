@@ -1,2 +1,2 @@
 #! python3
-print('Hello there, My name is Thaddyoparaocha Amarachi')
+print('Hi there, My name is Thaddyoparaocha Amarachi')
